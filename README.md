@@ -1,4 +1,4 @@
 docker-jenkins
 ==============
 
-A docker image based on Gentoo
+A docker image based on baseimage
